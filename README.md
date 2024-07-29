@@ -10,8 +10,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/nj93777/results-summary
+- Live Site URL: https://nj93777.github.io/results-summary/
 
 ## My process
 
